@@ -1,3 +1,5 @@
+Testing
+
 ### Introduction
 
 When we last left off, we successfully used our createStore method, and were able have our application re-render through the rather confusing connect and provider method.  Whenever something in javascript is confusing, it is generally helpful to place some debuggers in the code and poke around.  In this lesson we will guide you through that, and giving you a for your eyes only peak at the sordid underworld of connect and mapStateToProps.
